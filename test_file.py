@@ -1,0 +1,1 @@
+print("nezarah z python")
